@@ -1,11 +1,10 @@
 <h1>Thirty Days Data Engineering Challenge - 8th Day</h1>
 <h2>Overview</h2>
 <p>Welcome to the repository for the 8th day of the Thirty Days Data Engineering Challenge. This project focuses on fraud transaction detection using a dataset from a bank.</p>
+<h2>Repository Structure</h2>
+<p>The repository is organized as follows:</p>
 
-    <h2>Repository Structure</h2>
-    <p>The repository is organized as follows:</p>
-
-    <pre><code>
+<pre><code>
 
 ├── .ipynb_checkpoints
 │   └── (Jupyter notebook checkpoints)
