@@ -1,14 +1,27 @@
-<h1>Thirty Days Data Engineering Challenge - 8th Day</h1>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Thirty Days Data Engineering Challenge - 8th Day</title>
+</head>
+<body>
+    <h1>Thirty Days Data Engineering Challenge - 8th Day</h1>
+
+    <h2>Overview</h2>
     <p>Welcome to the repository for the 8th day of the Thirty Days Data Engineering Challenge. This project focuses on fraud transaction detection using a dataset from a bank.</p>
 
-    <h2>Project Structure</h2>
-    
+    <h2>Repository Structure</h2>
+    <p>The repository is organized as follows:</p>
+
+    <pre><code>
+.
 ├── .ipynb_checkpoints
 │   └── (Jupyter notebook checkpoints)
 ├── Fraud Transaction Detection.ipynb
 ├── bank.csv
 ├── bank.xlsx
-    
+    </code></pre>
 
     <h3>Files</h3>
     <ul>
@@ -30,28 +43,51 @@
         <li><strong>Conclusion</strong>: Summarizing the findings and potential improvements.</li>
     </ol>
 
-    <h2>Usage</h2>
-    <p>To run this project, you need to have Jupyter Notebook installed along with the necessary Python libraries. You can install the required libraries using:</p>
-    <pre><code>pip install -r requirements.txt</code></pre>
-    <p>Then, you can start Jupyter Notebook by running:</p>
-    <pre><code>jupyter notebook</code></pre>
-    <p>Open the <code>Fraud Transaction Detection.ipynb</code> file to view and execute the code.</p>
+    <h2>Getting Started</h2>
+    <p>To run this project, you need to have Jupyter Notebook installed along with the necessary Python libraries. Follow the steps below to get started:</p>
 
-    <h2>Dataset</h2>
-    <p>The dataset used in this project is provided in two formats:</p>
+    <h3>Prerequisites</h3>
     <ul>
-        <li><strong>bank.csv</strong>: A CSV file containing the transaction data.</li>
-        <li><strong>bank.xlsx</strong>: An Excel file containing the transaction data.</li>
+      <li>Jupyter Notebook</li>
+      <li>Python libraries (as listed in requirements.txt)</li>
     </ul>
-    <p>You can find these files in the repository.</p>
+
+    <h3>Installation</h3>
+    <ol>
+      <li><strong>Clone the Repository:</strong></li>
+      <pre><code>
+      git clone https://github.com/naresy/Thirty_Days_Data_Engineering_challenge_8th_Day
+      </code></pre>
+      <li><strong>Navigate to the Directory:</strong></li>
+      <pre><code>
+      cd Thirty_Days_Data_Engineering_challenge_8th_Day
+      </code></pre>
+      <li><strong>Install the Required Libraries:</strong></li>
+      <pre><code>
+      pip install -r requirements.txt
+      </code></pre>
+    </ol>
+
+    <h2>Running the Project</h2>
+    <p>Open the Jupyter Notebook by running:</p>
+    <pre><code>
+    jupyter notebook
+    </code></pre>
+    <p>Then, open the <code>Fraud Transaction Detection.ipynb</code> file to view and execute the code.</p>
 
     <h2>Contributing</h2>
-    <p>Contributions are welcome! If you have any improvements or suggestions, feel free to open a pull request or create an issue.</p>
+    <p>Contributions are welcome! If you have any improvements or suggestions, feel free to contribute by following these steps:</p>
+    <ol>
+      <li>Fork the repository.</li>
+      <li>Create a new branch for your feature or bug fix.</li>
+      <li>Commit your changes and push the branch.</li>
+      <li>Create a pull request detailing your changes.</li>
+    </ol>
 
     <h2>License</h2>
     <p>This project is licensed under the MIT License - see the <a href="LICENSE">LICENSE</a> file for details.</p>
 
-    <h2>Acknowledgements</h2>
+    <h2>Acknowledgments</h2>
     <p>Thanks to <a href="https://github.com/naresy">naresy</a> for creating this project and providing the dataset.</p>
 
     <hr>
