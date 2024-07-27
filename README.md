@@ -1,5 +1,4 @@
-
-    <h1>Thirty Days Data Engineering Challenge - 8th Day</h1>
+<h1>Thirty Days Data Engineering Challenge - 8th Day</h1>
 
     <h2>Overview</h2>
     <p>Welcome to the repository for the 8th day of the Thirty Days Data Engineering Challenge. This project focuses on fraud transaction detection using a dataset from a bank.</p>
