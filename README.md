@@ -8,7 +8,7 @@
     <p>The repository is organized as follows:</p>
 
     <pre><code>
-.
+
 ├── .ipynb_checkpoints
 │   └── (Jupyter notebook checkpoints)
 ├── Fraud Transaction Detection.ipynb
