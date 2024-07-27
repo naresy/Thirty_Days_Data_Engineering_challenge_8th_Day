@@ -75,9 +75,6 @@ jupyter notebook
 <h2>License</h2>
 <p>This project is licensed under the MIT License - see the <a href="LICENSE">LICENSE</a> file for details.</p>
 
- <h2>Acknowledgments</h2>
-<p>Thanks to <a href="https://github.com/naresy">naresy</a> for creating this project and providing the dataset.</p>
-
 <hr>
 <p>Happy Data Engineering!</p>
 
