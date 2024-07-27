@@ -2,13 +2,13 @@
     <p>Welcome to the repository for the 8th day of the Thirty Days Data Engineering Challenge. This project focuses on fraud transaction detection using a dataset from a bank.</p>
 
     <h2>Project Structure</h2>
-    <pre>
+    
 ├── .ipynb_checkpoints
 │   └── (Jupyter notebook checkpoints)
 ├── Fraud Transaction Detection.ipynb
 ├── bank.csv
 ├── bank.xlsx
-    </pre>
+    
 
     <h3>Files</h3>
     <ul>
