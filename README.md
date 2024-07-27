@@ -11,41 +11,41 @@
 ├── Fraud Transaction Detection.ipynb
 ├── bank.csv
 ├── bank.xlsx
-    </code></pre>
+</code></pre>
 
-    <h3>Files</h3>
-    <ul>
+<h3>Files</h3>
+<ul>
         <li><strong>Fraud Transaction Detection.ipynb</strong>: Jupyter notebook containing the code and explanations for fraud transaction detection.</li>
         <li><strong>bank.csv</strong>: CSV file containing the bank transaction data.</li>
         <li><strong>bank.xlsx</strong>: Excel file containing the bank transaction data.</li>
-    </ul>
+</ul>
 
-    <h2>Project Overview</h2>
-    <p>The goal of this project is to detect fraudulent transactions using machine learning techniques. The dataset includes various features related to bank transactions, and we aim to identify which transactions are potentially fraudulent.</p>
+<h2>Project Overview</h2>
+<p>The goal of this project is to detect fraudulent transactions using machine learning techniques. The dataset includes various features related to bank transactions, and we aim to identify which transactions are potentially fraudulent.</p>
 
-    <h3>Steps Involved</h3>
-    <ol>
+<h3>Steps Involved</h3>
+<ol>
         <li><strong>Data Exploration</strong>: Understanding the structure and characteristics of the dataset.</li>
         <li><strong>Data Preprocessing</strong>: Cleaning and preparing the data for analysis.</li>
         <li><strong>Feature Engineering</strong>: Creating new features that may help in improving the model's performance.</li>
         <li><strong>Model Training</strong>: Training machine learning models to detect fraud.</li>
         <li><strong>Model Evaluation</strong>: Evaluating the performance of the models using appropriate metrics.</li>
         <li><strong>Conclusion</strong>: Summarizing the findings and potential improvements.</li>
-    </ol>
+</ol>
 
-    <h2>Getting Started</h2>
-    <p>To run this project, you need to have Jupyter Notebook installed along with the necessary Python libraries. Follow the steps below to get started:</p>
+<h2>Getting Started</h2>
+<p>To run this project, you need to have Jupyter Notebook installed along with the necessary Python libraries. Follow the steps below to get started:</p>
 
-    <h3>Prerequisites</h3>
-    <ul>
+<h3>Prerequisites</h3>
+<ul>
         <li>Jupyter Notebook</li>
         <li>Python libraries (as listed in requirements.txt)</li>
-    </ul>
+</ul>
 
-    <h3>Installation</h3>
-    <ol>
+<h3>Installation</h3>
+<ol>
         <li><strong>Clone the Repository:</strong></li>
-        <pre><code>
+<pre><code>
 git clone https://github.com/naresy/Thirty_Days_Data_Engineering_challenge_8th_Day
         </code></pre>
         <li><strong>Navigate to the Directory:</strong></li>
