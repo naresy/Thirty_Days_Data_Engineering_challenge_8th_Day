@@ -48,40 +48,40 @@
 
     <h3>Prerequisites</h3>
     <ul>
-      <li>Jupyter Notebook</li>
-      <li>Python libraries (as listed in requirements.txt)</li>
+        <li>Jupyter Notebook</li>
+        <li>Python libraries (as listed in requirements.txt)</li>
     </ul>
 
     <h3>Installation</h3>
     <ol>
-      <li><strong>Clone the Repository:</strong></li>
-      <pre><code>
-      git clone https://github.com/naresy/Thirty_Days_Data_Engineering_challenge_8th_Day
-      </code></pre>
-      <li><strong>Navigate to the Directory:</strong></li>
-      <pre><code>
-      cd Thirty_Days_Data_Engineering_challenge_8th_Day
-      </code></pre>
-      <li><strong>Install the Required Libraries:</strong></li>
-      <pre><code>
-      pip install -r requirements.txt
-      </code></pre>
+        <li><strong>Clone the Repository:</strong></li>
+        <pre><code>
+git clone https://github.com/naresy/Thirty_Days_Data_Engineering_challenge_8th_Day
+        </code></pre>
+        <li><strong>Navigate to the Directory:</strong></li>
+        <pre><code>
+cd Thirty_Days_Data_Engineering_challenge_8th_Day
+        </code></pre>
+        <li><strong>Install the Required Libraries:</strong></li>
+        <pre><code>
+pip install -r requirements.txt
+        </code></pre>
     </ol>
 
     <h2>Running the Project</h2>
     <p>Open the Jupyter Notebook by running:</p>
     <pre><code>
-    jupyter notebook
+jupyter notebook
     </code></pre>
     <p>Then, open the <code>Fraud Transaction Detection.ipynb</code> file to view and execute the code.</p>
 
     <h2>Contributing</h2>
     <p>Contributions are welcome! If you have any improvements or suggestions, feel free to contribute by following these steps:</p>
     <ol>
-      <li>Fork the repository.</li>
-      <li>Create a new branch for your feature or bug fix.</li>
-      <li>Commit your changes and push the branch.</li>
-      <li>Create a pull request detailing your changes.</li>
+        <li>Fork the repository.</li>
+        <li>Create a new branch for your feature or bug fix.</li>
+        <li>Commit your changes and push the branch.</li>
+        <li>Create a pull request detailing your changes.</li>
     </ol>
 
     <h2>License</h2>
