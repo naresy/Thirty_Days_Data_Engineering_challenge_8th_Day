@@ -32,10 +32,8 @@
         <li><strong>Model Evaluation</strong>: Evaluating the performance of the models using appropriate metrics.</li>
         <li><strong>Conclusion</strong>: Summarizing the findings and potential improvements.</li>
 </ol>
-
 <h2>Getting Started</h2>
 <p>To run this project, you need to have Jupyter Notebook installed along with the necessary Python libraries. Follow the steps below to get started:</p>
-
 <h3>Prerequisites</h3>
 <ul>
         <li>Jupyter Notebook</li>
@@ -58,23 +56,23 @@ pip install -r requirements.txt
         </code></pre>
     </ol>
 
-    <h2>Running the Project</h2>
-    <p>Open the Jupyter Notebook by running:</p>
-    <pre><code>
+<h2>Running the Project</h2>
+<p>Open the Jupyter Notebook by running:</p>
+<pre><code>
 jupyter notebook
     </code></pre>
-    <p>Then, open the <code>Fraud Transaction Detection.ipynb</code> file to view and execute the code.</p>
+<p>Then, open the <code>Fraud Transaction Detection.ipynb</code> file to view and execute the code.</p>
 
-    <h2>Contributing</h2>
-    <p>Contributions are welcome! If you have any improvements or suggestions, feel free to contribute by following these steps:</p>
-    <ol>
+<h2>Contributing</h2>
+<p>Contributions are welcome! If you have any improvements or suggestions, feel free to contribute by following these steps:</p>
+<ol>
         <li>Fork the repository.</li>
         <li>Create a new branch for your feature or bug fix.</li>
         <li>Commit your changes and push the branch.</li>
         <li>Create a pull request detailing your changes.</li>
     </ol>
 
-    <h2>License</h2>
+<h2>License</h2>
     <p>This project is licensed under the MIT License - see the <a href="LICENSE">LICENSE</a> file for details.</p>
 
     <h2>Acknowledgments</h2>
@@ -82,5 +80,4 @@ jupyter notebook
 
     <hr>
     <p>Happy Data Engineering!</p>
-</body>
-</html>
+
